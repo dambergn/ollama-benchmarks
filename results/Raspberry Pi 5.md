@@ -6,8 +6,8 @@
   - Memory Buss: 32 bit
   - Bandwidth: 9590.72 MiB/sec
 - Power Usage in Watts
-  - Idle: 
-  - Load: 
+  - Idle: 4W
+  - Load: 11W
 
 
 ## CPU Benchmark Results
@@ -16,7 +16,7 @@
 |                  | Memory | TPS   |
 | Llama3.2:1b      | 2.2 GB | 7.69  |
 | Llama3.2:3b      | 3.5 GB | 3.25  |
-| Deepseek-R1:1.5b | 1.6 GB | 6.48  |
+| Deepseek-R1:1.5b | 1.6 GB | 8.86  |
 | Deepseek-R1:7b   | 5.5 GB | 1.53  |
 | Deepseek-R1:8b   | 6.5 GB | 1.43  |
 | Deepseek-R1:14b  |        | N/A   |
